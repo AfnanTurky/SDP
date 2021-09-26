@@ -1,5 +1,3 @@
-# SDP
-
 the model paper has been selected 
 
 the project folder has been created 
