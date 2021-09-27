@@ -1,4 +1,4 @@
-#Software defect prediction (SDP)
+# Software defect prediction (SDP)
 
 Team members: Afnan Alotaibi - Nada Alsulaiman - Nojoud Albadrani
 
