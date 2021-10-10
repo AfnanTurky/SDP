@@ -17,4 +17,6 @@ The project folder has been created.
 The dataset has been downloaded. 
 Reading the paper and some related work to understand the problem.
 
-
+[10 Oct 2021]
+- Reviewing all the available papers related to feuture selection using heuristic algorithms to solve software defect prediction problem.
+- Submitting the progress report.
