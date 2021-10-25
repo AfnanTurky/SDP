@@ -20,3 +20,13 @@ Reading the paper and some related work to understand the problem.
 [10 Oct 2021]
 - Reviewing all the available papers related to feuture selection using heuristic algorithms to solve software defect prediction problem.
 - Submitting the progress report.
+
+[12 Oct 2021]
+- selecting Particle Swarm Optimization (PSO) algortim for feature selection. 
+
+[20 Oct 2021]
+- the PSO has been implemented
+- the SDP task has been finalized by develoing; data prepreaiton,feature selection, calssfication, and evaluation 
+
+[21 Oct 2021]
+- Discuss the improvement 
