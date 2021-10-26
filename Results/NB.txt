@@ -1,0 +1,33 @@
+NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
+NB-ant dataset:
+cost= 0.24966442953020135
+Number of selected features:20
+Selected features:[0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0]NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
+NB-ant dataset:
+cost= 0.24966442953020135
+Number of selected features:3
+Selected features:[0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0]
+subset_performance:0.24966442953020135NB-arc dataset:
+cost= 0.14102564102564102
+Number of selected features:5
+Selected features:[0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1]
+subset_performance:0.14102564102564102NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
+NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
+NB-arc dataset:
+cost= 0.14102564102564102
+Number of selected features:6
+Selected features:[0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0]
+subset_performance:0.14102564102564102NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
+NB-arc dataset:
+cost= 0.14102564102564102
+Number of selected features:5
+Selected features:[1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0]
+subset_performance:0.14102564102564102NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
+NB
+parameters: {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 40, 'p': 2}
