@@ -1,0 +1,7 @@
+NB
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4}
+NB-ant dataset:
+cost= 2.1812080536912752
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+subset_performance:0.8187919463087249
