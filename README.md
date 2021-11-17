@@ -30,3 +30,13 @@ Reading the paper and some related work to understand the problem.
 
 [21 Oct 2021]
 - Discuss the improvement 
+
+
+[4 Nov 2021]
+- Improving the PSO algorithm by applying crossover local search.
+- the initial results are good.
+
+[11 Nov 2021]
+- Writing  the Introduction, Methodology, and related work section. 
+- A meeting to discuss the possible improvements before the testing phase with Dr.Wojdan. 
+
