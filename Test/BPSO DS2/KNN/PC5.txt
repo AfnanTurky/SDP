@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-PC5 dataset:
+cost= 3.274336283185841
+Number of selected features:3
+Selected features:[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+subset_performance:0.7256637168141593
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.78      0.86      0.82       402
+           1       0.53      0.39      0.45       163
+
+    accuracy                           0.73       565
+   macro avg       0.66      0.62      0.63       565
+weighted avg       0.71      0.73      0.71       565
+
+number of particle 20:
+best pos cost= 3.274336283185841
+Number of selected features:3
+Selected features:[0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+FS, training, and testing time= 29.172285795211792 seconds

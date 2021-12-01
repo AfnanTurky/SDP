@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-PC5 dataset:
+cost= 4.27787610619469
+Number of selected features:4
+Selected features:[0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1]
+subset_performance:0.7221238938053097
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.73      0.96      0.83       402
+           1       0.58      0.13      0.21       163
+
+    accuracy                           0.72       565
+   macro avg       0.66      0.55      0.52       565
+weighted avg       0.69      0.72      0.65       565
+
+number of particle 20:
+best pos cost= 4.27787610619469
+Number of selected features:4
+Selected features:[0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1]
+FS, training, and testing time= 1.987793207168579 seconds
