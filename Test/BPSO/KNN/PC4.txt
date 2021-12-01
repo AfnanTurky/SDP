@@ -18,3 +18,24 @@ best pos cost= 4.0
 Number of selected features:4
 Selected features:[0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1]
 FS, training, and testing time= 23.272192001342773 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-PC4 dataset:
+cost= 3.152941176470588
+Number of selected features:3
+Selected features:[0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+subset_performance:0.8470588235294118
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.88      0.95      0.92       372
+           1       0.23      0.09      0.13        53
+
+    accuracy                           0.85       425
+   macro avg       0.55      0.52      0.52       425
+weighted avg       0.80      0.85      0.82       425
+
+number of particle 20:
+best pos cost= 3.152941176470588
+Number of selected features:3
+Selected features:[0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 21.72204279899597 seconds
