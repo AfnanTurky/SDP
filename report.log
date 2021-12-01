@@ -184,3 +184,24 @@
 2021-11-27 21:47:57,003 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.1651006711409395, best pos: [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
 2021-11-29 19:22:34,534 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
 2021-11-29 19:27:40,967 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.186991869918699, best pos: [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+2021-12-01 03:18:07,526 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+2021-12-01 03:19:00,025 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+2021-12-01 03:19:53,285 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:22:36,825 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 2.186991869918699, best pos: [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+2021-12-01 03:23:50,005 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:23:59,853 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:24:15,531 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 4.227642276422764, best pos: [0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0]
+2021-12-01 03:24:53,663 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:25:09,784 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 4.199186991869919, best pos: [0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0]
+2021-12-01 03:25:38,474 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:25:54,323 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 3.2154471544715446, best pos: [0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1]
+2021-12-01 03:26:49,415 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:27:05,150 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 4.203252032520325, best pos: [0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 0]
+2021-12-01 03:29:09,830 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:29:25,266 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 3.1951219512195124, best pos: [0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1]
+2021-12-01 03:29:47,873 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:30:03,908 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 3.2195121951219514, best pos: [0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0]
+2021-12-01 03:31:04,080 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:31:19,205 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 4.199186991869919, best pos: [1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0]
+2021-12-01 03:31:43,959 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+2021-12-01 03:31:58,972 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 3.2195121951219514, best pos: [0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
