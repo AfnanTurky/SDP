@@ -1,0 +1,42 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-PC2 dataset:
+cost= 3.0365853658536586
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0]
+subset_performance:0.9634146341463414
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       237
+           1       0.00      0.00      0.00         9
+
+    accuracy                           0.96       246
+   macro avg       0.48      0.50      0.49       246
+weighted avg       0.93      0.96      0.95       246
+
+number of particle 20:
+best pos cost= 3.0365853658536586
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0]
+FS, training, and testing time= 30.0895938873291 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-PC2 dataset:
+cost= 3.0365853658536586
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1]
+subset_performance:0.9634146341463414
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       237
+           1       0.00      0.00      0.00         9
+
+    accuracy                           0.96       246
+   macro avg       0.48      0.50      0.49       246
+weighted avg       0.93      0.96      0.95       246
+
+number of particle 20:
+best pos cost= 3.0365853658536586
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1]
+FS, training, and testing time= 32.47271656990051 seconds
