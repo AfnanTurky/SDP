@@ -1,0 +1,23 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-xerces-1.2 dataset:
+cost= 2.1643835616438354
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0]
+subset_performance:0.8356164383561644
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.87      0.97      0.91       126
+           1       0.00      0.00      0.00         9
+           2       0.00      0.00      0.00        11
+           4       0.00      0.00      0.00         0
+
+    accuracy                           0.84       146
+   macro avg       0.22      0.24      0.23       146
+weighted avg       0.75      0.84      0.79       146
+
+number of particle 20:
+best pos cost= 2.1643835616438354
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0]
+FS, training, and testing time= 1.600139856338501 seconds

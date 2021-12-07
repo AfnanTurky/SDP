@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-KC1 dataset:
+cost= 4.276214833759591
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0]
+subset_performance:0.7237851662404092
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83       277
+           1       0.57      0.21      0.31       114
+
+    accuracy                           0.72       391
+   macro avg       0.66      0.57      0.57       391
+weighted avg       0.69      0.72      0.68       391
+
+number of particle 20:
+best pos cost= 4.276214833759591
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0]
+FS, training, and testing time= 23.566849946975708 seconds

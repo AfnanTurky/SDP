@@ -1,0 +1,28 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-ant-1.7 dataset:
+cost= 3.2398373983739837
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+subset_performance:0.7601626016260162
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.77      1.00      0.87       185
+           1       0.50      0.03      0.06        34
+           2       0.00      0.00      0.00        14
+           3       0.00      0.00      0.00         6
+           4       0.20      0.33      0.25         3
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+           8       0.00      0.00      0.00         1
+
+    accuracy                           0.76       246
+   macro avg       0.16      0.15      0.13       246
+weighted avg       0.65      0.76      0.67       246
+
+number of particle 20:
+best pos cost= 3.2398373983739837
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+FS, training, and testing time= 27.243132829666138 seconds

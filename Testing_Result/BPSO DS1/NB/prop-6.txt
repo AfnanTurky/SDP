@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-prop-6 dataset:
+cost= 3.107981220657277
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0]
+subset_performance:0.892018779342723
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94       192
+           1       0.00      0.00      0.00        21
+
+    accuracy                           0.89       213
+   macro avg       0.45      0.49      0.47       213
+weighted avg       0.81      0.89      0.85       213
+
+number of particle 20:
+best pos cost= 3.107981220657277
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0]
+FS, training, and testing time= 1.3144793510437012 seconds

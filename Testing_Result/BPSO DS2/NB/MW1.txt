@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-MW1 dataset:
+cost= 8.202380952380953
+Number of selected features:8
+Selected features:[1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0]
+subset_performance:0.7976190476190477
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.88      0.87      0.88        70
+           1       0.40      0.43      0.41        14
+
+    accuracy                           0.80        84
+   macro avg       0.64      0.65      0.65        84
+weighted avg       0.80      0.80      0.80        84
+
+number of particle 20:
+best pos cost= 8.202380952380953
+Number of selected features:8
+Selected features:[1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0]
+FS, training, and testing time= 2.707245111465454 seconds

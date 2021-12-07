@@ -1,0 +1,32 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-camel-1.6 dataset:
+cost= 4.2884012539184955
+Number of selected features:4
+Selected features:[0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0]
+subset_performance:0.7115987460815048
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.81      0.89      0.85       251
+           1       0.22      0.06      0.09        34
+           2       0.00      0.00      0.00        11
+           3       0.00      0.00      0.00         7
+           4       0.33      0.20      0.25         5
+           5       0.00      0.00      0.00         2
+           6       0.00      0.00      0.00         2
+           7       0.00      0.00      0.00         2
+           8       0.00      0.00      0.00         2
+          10       0.00      0.00      0.00         1
+          11       0.00      0.00      0.00         0
+          13       0.00      0.00      0.00         1
+          28       0.00      0.00      0.00         1
+
+    accuracy                           0.71       319
+   macro avg       0.10      0.09      0.09       319
+weighted avg       0.66      0.71      0.68       319
+
+number of particle 20:
+best pos cost= 4.2884012539184955
+Number of selected features:4
+Selected features:[0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0]
+FS, training, and testing time= 2.822183609008789 seconds

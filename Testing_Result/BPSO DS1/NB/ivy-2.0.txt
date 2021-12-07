@@ -1,0 +1,23 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-ivy-2.0 dataset:
+cost= 3.1623931623931623
+Number of selected features:3
+Selected features:[1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0]
+subset_performance:0.8376068376068376
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.87      0.99      0.93        98
+           1       0.00      0.00      0.00        17
+           2       0.25      0.50      0.33         2
+           3       0.00      0.00      0.00         0
+
+    accuracy                           0.84       117
+   macro avg       0.28      0.37      0.32       117
+weighted avg       0.74      0.84      0.78       117
+
+number of particle 20:
+best pos cost= 3.1623931623931623
+Number of selected features:3
+Selected features:[1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 1.5249512195587158 seconds
