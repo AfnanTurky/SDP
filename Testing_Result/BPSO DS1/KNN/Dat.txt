@@ -1,0 +1,596 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.1982758620689653
+Number of selected features:3
+Selected features:[1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+subset_performance:0.8017241379310345
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.81      0.93      0.87        80
+           1       0.76      0.53      0.62        36
+
+    accuracy                           0.80       116
+   macro avg       0.79      0.73      0.74       116
+weighted avg       0.80      0.80      0.79       116
+
+number of particle 20:
+best pos cost= 3.1982758620689653
+Number of selected features:3
+Selected features:[1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.980675458908081 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0]
+subset_performance:0.7758620689655172
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.90      0.85        80
+           1       0.69      0.50      0.58        36
+
+    accuracy                           0.78       116
+   macro avg       0.75      0.70      0.71       116
+weighted avg       0.77      0.78      0.76       116
+
+number of particle 20:
+best pos cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0]
+FS, training, and testing time= 6.927307367324829 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+subset_performance:0.7758620689655172
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.90      0.85        80
+           1       0.69      0.50      0.58        36
+
+    accuracy                           0.78       116
+   macro avg       0.75      0.70      0.71       116
+weighted avg       0.77      0.78      0.76       116
+
+number of particle 20:
+best pos cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.981621265411377 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2586206896551726
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+subset_performance:0.7413793103448276
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.75      0.94      0.83        80
+           1       0.69      0.31      0.42        36
+
+    accuracy                           0.74       116
+   macro avg       0.72      0.62      0.63       116
+weighted avg       0.73      0.74      0.71       116
+
+number of particle 20:
+best pos cost= 3.2586206896551726
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.956874370574951 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 2.2672413793103448
+Number of selected features:2
+Selected features:[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+subset_performance:0.7327586206896551
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83        80
+           1       0.67      0.28      0.39        36
+
+    accuracy                           0.73       116
+   macro avg       0.70      0.61      0.61       116
+weighted avg       0.72      0.73      0.69       116
+
+number of particle 20:
+best pos cost= 2.2672413793103448
+Number of selected features:2
+Selected features:[0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0]
+FS, training, and testing time= 6.9252166748046875 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1]
+subset_performance:0.7758620689655172
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.90      0.85        80
+           1       0.69      0.50      0.58        36
+
+    accuracy                           0.78       116
+   macro avg       0.75      0.70      0.71       116
+weighted avg       0.77      0.78      0.76       116
+
+number of particle 20:
+best pos cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1]
+FS, training, and testing time= 6.975411653518677 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.206896551724138
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0]
+subset_performance:0.7931034482758621
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.79      0.95      0.86        80
+           1       0.80      0.44      0.57        36
+
+    accuracy                           0.79       116
+   macro avg       0.80      0.70      0.72       116
+weighted avg       0.79      0.79      0.77       116
+
+number of particle 20:
+best pos cost= 4.206896551724138
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0]
+FS, training, and testing time= 6.919125080108643 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 2.2241379310344827
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0]
+subset_performance:0.7758620689655172
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.90      0.85        80
+           1       0.69      0.50      0.58        36
+
+    accuracy                           0.78       116
+   macro avg       0.75      0.70      0.71       116
+weighted avg       0.77      0.78      0.76       116
+
+number of particle 20:
+best pos cost= 2.2241379310344827
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.8921918869018555 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 1.2155172413793103
+Number of selected features:1
+Selected features:[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+subset_performance:0.7844827586206896
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.93      0.86        80
+           1       0.74      0.47      0.58        36
+
+    accuracy                           0.78       116
+   macro avg       0.77      0.70      0.72       116
+weighted avg       0.78      0.78      0.77       116
+
+number of particle 20:
+best pos cost= 1.2155172413793103
+Number of selected features:1
+Selected features:[0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.968600511550903 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2758620689655173
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+subset_performance:0.7241379310344828
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.75      0.90      0.82        80
+           1       0.60      0.33      0.43        36
+
+    accuracy                           0.72       116
+   macro avg       0.68      0.62      0.62       116
+weighted avg       0.70      0.72      0.70       116
+
+number of particle 20:
+best pos cost= 3.2758620689655173
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0]
+FS, training, and testing time= 6.963948965072632 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 1.4224137931034484
+Number of selected features:1
+Selected features:[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+subset_performance:0.5775862068965517
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.70      0.69      0.69        80
+           1       0.32      0.33      0.33        36
+
+    accuracy                           0.58       116
+   macro avg       0.51      0.51      0.51       116
+weighted avg       0.58      0.58      0.58       116
+
+number of particle 20:
+best pos cost= 1.4224137931034484
+Number of selected features:1
+Selected features:[0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.9667322635650635 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.2155172413793105
+Number of selected features:4
+Selected features:[0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0]
+subset_performance:0.7844827586206896
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.91      0.85        80
+           1       0.72      0.50      0.59        36
+
+    accuracy                           0.78       116
+   macro avg       0.76      0.71      0.72       116
+weighted avg       0.78      0.78      0.77       116
+
+number of particle 20:
+best pos cost= 4.2155172413793105
+Number of selected features:4
+Selected features:[0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0]
+FS, training, and testing time= 6.942976713180542 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.3017241379310347
+Number of selected features:3
+Selected features:[0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+subset_performance:0.6982758620689655
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.73      0.89      0.80        80
+           1       0.53      0.28      0.36        36
+
+    accuracy                           0.70       116
+   macro avg       0.63      0.58      0.58       116
+weighted avg       0.67      0.70      0.67       116
+
+number of particle 20:
+best pos cost= 3.3017241379310347
+Number of selected features:3
+Selected features:[0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 7.41281795501709 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.267241379310345
+Number of selected features:4
+Selected features:[1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0]
+subset_performance:0.7327586206896551
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.76      0.90      0.82        80
+           1       0.62      0.36      0.46        36
+
+    accuracy                           0.73       116
+   macro avg       0.69      0.63      0.64       116
+weighted avg       0.71      0.73      0.71       116
+
+number of particle 20:
+best pos cost= 4.267241379310345
+Number of selected features:4
+Selected features:[1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0]
+FS, training, and testing time= 8.168509721755981 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0]
+subset_performance:0.7758620689655172
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.90      0.85        80
+           1       0.69      0.50      0.58        36
+
+    accuracy                           0.78       116
+   macro avg       0.75      0.70      0.71       116
+weighted avg       0.77      0.78      0.76       116
+
+number of particle 20:
+best pos cost= 3.2241379310344827
+Number of selected features:3
+Selected features:[0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0]
+FS, training, and testing time= 7.172377109527588 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.2642276422764227
+Number of selected features:3
+Selected features:[0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1]
+subset_performance:0.7357723577235772
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.78      0.96      0.86       185
+           1       0.09      0.03      0.04        34
+           2       1.00      0.07      0.13        14
+           3       0.00      0.00      0.00         6
+           4       0.33      0.33      0.33         3
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+           8       0.00      0.00      0.00         1
+
+    accuracy                           0.74       246
+   macro avg       0.24      0.16      0.15       246
+weighted avg       0.66      0.74      0.66       246
+
+number of particle 20:
+best pos cost= 3.2642276422764227
+Number of selected features:3
+Selected features:[0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1]
+FS, training, and testing time= 14.26256012916565 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 2.1666666666666665
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+subset_performance:0.8333333333333334
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      0.98      0.91       243
+           1       0.00      0.00      0.00        19
+           2       0.00      0.00      0.00        11
+           3       1.00      0.12      0.22         8
+           5       0.00      0.00      0.00         3
+           7       0.00      0.00      0.00         3
+          10       0.00      0.00      0.00         1
+
+    accuracy                           0.83       288
+   macro avg       0.26      0.16      0.16       288
+weighted avg       0.74      0.83      0.77       288
+
+number of particle 20:
+best pos cost= 2.1666666666666665
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 16.41122078895569 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.216300940438871
+Number of selected features:4
+Selected features:[0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0]
+subset_performance:0.7836990595611285
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.79      1.00      0.88       251
+           1       0.00      0.00      0.00        34
+           2       0.00      0.00      0.00        11
+           3       0.00      0.00      0.00         7
+           4       0.00      0.00      0.00         5
+           5       0.00      0.00      0.00         2
+           6       0.00      0.00      0.00         2
+           7       0.00      0.00      0.00         2
+           8       0.00      0.00      0.00         2
+          10       0.00      0.00      0.00         1
+          13       0.00      0.00      0.00         1
+          28       0.00      0.00      0.00         1
+
+    accuracy                           0.78       319
+   macro avg       0.07      0.08      0.07       319
+weighted avg       0.62      0.78      0.69       319
+
+number of particle 20:
+best pos cost= 4.216300940438871
+Number of selected features:4
+Selected features:[0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 0]
+FS, training, and testing time= 17.64410090446472 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.1623931623931623
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0]
+subset_performance:0.8376068376068376
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.91        98
+           1       0.00      0.00      0.00        17
+           2       0.00      0.00      0.00         2
+
+    accuracy                           0.84       117
+   macro avg       0.28      0.33      0.30       117
+weighted avg       0.70      0.84      0.76       117
+
+number of particle 20:
+best pos cost= 3.1623931623931623
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0]
+FS, training, and testing time= 6.945484161376953 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.098360655737705
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0]
+subset_performance:0.9016393442622951
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95       109
+           1       1.00      0.10      0.18        10
+           2       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00         1
+
+    accuracy                           0.90       122
+   macro avg       0.48      0.28      0.28       122
+weighted avg       0.89      0.90      0.86       122
+
+number of particle 20:
+best pos cost= 4.098360655737705
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0]
+FS, training, and testing time= 7.369102239608765 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.01840490797546
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0]
+subset_performance:0.9815950920245399
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       160
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.98       163
+   macro avg       0.49      0.50      0.50       163
+weighted avg       0.96      0.98      0.97       163
+
+number of particle 20:
+best pos cost= 3.01840490797546
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 9.243369579315186 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.115384615384615
+Number of selected features:4
+Selected features:[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0]
+subset_performance:0.8846153846153846
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94        91
+           1       1.00      0.09      0.17        11
+           2       0.00      0.00      0.00         2
+
+    accuracy                           0.88       104
+   macro avg       0.63      0.36      0.37       104
+weighted avg       0.88      0.88      0.84       104
+
+number of particle 20:
+best pos cost= 4.115384615384615
+Number of selected features:4
+Selected features:[1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0]
+FS, training, and testing time= 6.370201826095581 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.103286384976526
+Number of selected features:3
+Selected features:[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+subset_performance:0.8967136150234741
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.95       192
+           1       0.00      0.00      0.00        21
+
+    accuracy                           0.90       213
+   macro avg       0.45      0.50      0.47       213
+weighted avg       0.81      0.90      0.85       213
+
+number of particle 20:
+best pos cost= 3.103286384976526
+Number of selected features:3
+Selected features:[0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0]
+FS, training, and testing time= 12.029734373092651 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 3.3294117647058825
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0]
+subset_performance:0.6705882352941176
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.83      0.83      0.83        64
+           1       0.27      0.36      0.31        11
+           2       0.00      0.00      0.00         8
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+
+    accuracy                           0.67        85
+   macro avg       0.22      0.24      0.23        85
+weighted avg       0.66      0.67      0.66        85
+
+number of particle 20:
+best pos cost= 3.3294117647058825
+Number of selected features:3
+Selected features:[0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0]
+FS, training, and testing time= 5.475500106811523 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.441509433962264
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 0 0]
+subset_performance:0.5584905660377358
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.59      0.78      0.67       139
+           1       0.55      0.41      0.47        98
+           2       0.00      0.00      0.00        19
+           3       0.00      0.00      0.00         4
+           4       0.00      0.00      0.00         4
+           6       0.00      0.00      0.00         1
+
+    accuracy                           0.56       265
+   macro avg       0.19      0.20      0.19       265
+weighted avg       0.51      0.56      0.53       265
+
+number of particle 20:
+best pos cost= 4.441509433962264
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 0 0]
+FS, training, and testing time= 14.78549838066101 seconds
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-Dat dataset:
+cost= 4.1438356164383565
+Number of selected features:4
+Selected features:[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+subset_performance:0.8561643835616438
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.87      0.98      0.92       126
+           1       0.33      0.11      0.17         9
+           2       0.00      0.00      0.00        11
+
+    accuracy                           0.86       146
+   macro avg       0.40      0.37      0.36       146
+weighted avg       0.77      0.86      0.81       146
+
+number of particle 20:
+best pos cost= 4.1438356164383565
+Number of selected features:4
+Selected features:[0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1]
+FS, training, and testing time= 8.476378202438354 seconds

@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-prop-6 dataset:
+cost= 4.126760563380282
+Number of selected features:4
+Selected features:[0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0]
+subset_performance:0.8732394366197183
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.90      0.97      0.93       192
+           1       0.00      0.00      0.00        21
+
+    accuracy                           0.87       213
+   macro avg       0.45      0.48      0.47       213
+weighted avg       0.81      0.87      0.84       213
+
+number of particle 20:
+best pos cost= 4.126760563380282
+Number of selected features:4
+Selected features:[0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0]
+FS, training, and testing time= 12.838727474212646 seconds

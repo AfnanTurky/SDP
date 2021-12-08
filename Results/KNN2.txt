@@ -1,0 +1,23 @@
+KNN
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+KNN
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+KNN-ant dataset:
+cost= 2.1651006711409395
+Number of selected features:2
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0]
+subset_performance:0.8348993288590604
+FS, training, and testing time= 1066.0932204723358 seconds
+KNN
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+KNN
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+KNN
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
+KNN-ant dataset:
+cost= 2.186991869918699
+Number of selected features:2
+Selected features:[1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0]
+subset_performance:0.7601626016260162
+
+subset_performance:0.7601626016260162

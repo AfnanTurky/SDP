@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-MC1 dataset:
+cost= 10.025875190258752
+Number of selected features:10
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 1 0 0 0 0]
+subset_performance:0.974124809741248
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.97      1.00      0.99       640
+           1       0.00      0.00      0.00        17
+
+    accuracy                           0.97       657
+   macro avg       0.49      0.50      0.49       657
+weighted avg       0.95      0.97      0.96       657
+
+number of particle 20:
+best pos cost= 10.025875190258752
+Number of selected features:10
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 1 0 1 1 1 0 0 1 0 1 0 0 0 0]
+FS, training, and testing time= 287.37182998657227 seconds
