@@ -300,3 +300,63 @@ True Negative= [ 10 208 232 240 242 245 244 245 245]
 True Positive= [183   5   0   0   1   0   0   0   0]
 Flase Negative= [ 2 29 14  6  2  1  1  1  1]
 False Positive= [51  4  0  0  1  0  1  0  0]
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.23170731707317074
+Number of selected features:12
+Selected features:[0. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1. 0. 1. 0. 0. 0. 1. 0. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.78      0.98      0.87       185
+           1       0.60      0.18      0.27        34
+           2       0.00      0.00      0.00        14
+           3       0.00      0.00      0.00         6
+           4       0.50      0.33      0.40         3
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+           8       0.00      0.00      0.00         1
+
+    accuracy                           0.77       246
+   macro avg       0.21      0.17      0.17       246
+weighted avg       0.68      0.77      0.70       246
+
+subset performance = 0.7682926829268293
+accuracy_score= 0.7682926829268293
+precision_score= 0.6764489340172372
+recall_score= 0.7682926829268293
+F_Score= 0.7194515064616119
+auc= 0.8712737127371274
+G_mean= 0.8637362464264416
+confusion_matrix=
+[[[ 10  51]
+  [  3 182]]
+
+ [[208   4]
+  [ 28   6]]
+
+ [[232   0]
+  [ 14   0]]
+
+ [[240   0]
+  [  6   0]]
+
+ [[242   1]
+  [  2   1]]
+
+ [[245   0]
+  [  1   0]]
+
+ [[244   1]
+  [  1   0]]
+
+ [[245   0]
+  [  1   0]]
+
+ [[245   0]
+  [  1   0]]]
+labels {0, 1, 2, 3, 4, 5, 6, 7, 8, 10}
+True Negative= [ 10 208 232 240 242 245 244 245 245]
+True Positive= [182   6   0   0   1   0   0   0   0]
+Flase Negative= [ 3 28 14  6  2  1  1  1  1]
+False Positive= [51  4  0  0  1  0  1  0  0]
