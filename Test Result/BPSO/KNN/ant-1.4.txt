@@ -1,0 +1,36 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-ant-1.4 dataset:
+cost= 0.23728813559322035
+Number of selected features:11
+Selected features:[1 0 0 0 1 0 1 1 0 0 1 0 1 1 1 0 1 0 1 1]accuracy_score= 0.7627118644067796
+precision_score= 0.8209931608682723
+recall_score= 0.7627118644067796
+F_Score= 0.7907801192741715
+auc= 0.5625
+G_mean= 0.3535533905932738
+confusion_matrix=
+[[43  0]
+ [14  2]]
+labels {0, 1}
+True Negative= 43
+True Positive= 2
+Flase Negative= 14
+False Positive= 0
+
+subset_performance:0.7627118644067796
+
+classification_report:
+              precision    recall  f1-score   support
+
+           0       0.75      1.00      0.86        43
+           1       1.00      0.12      0.22        16
+
+    accuracy                           0.76        59
+   macro avg       0.88      0.56      0.54        59
+weighted avg       0.82      0.76      0.69        59
+
+number of particle 20:
+best pos cost= 0.23728813559322035
+Number of selected features:11
+Selected features:[1 0 0 0 1 0 1 1 0 0 1 0 1 1 1 0 1 0 1 1]
+FS, training, and testing time= 4.43327784538269 seconds
