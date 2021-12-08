@@ -1,0 +1,45 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 1.2398373983739837
+Number of selected features:1
+Selected features:[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.77      0.99      0.87       185
+           1       0.50      0.12      0.19        34
+           2       0.00      0.00      0.00        14
+           3       0.00      0.00      0.00         6
+           4       0.00      0.00      0.00         3
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+           8       0.00      0.00      0.00         1
+          10       0.00      0.00      0.00         0
+
+    accuracy                           0.76       246
+   macro avg       0.13      0.11      0.11       246
+weighted avg       0.65      0.76      0.68       246
+
+subset performance = 0.7601626016260162parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.28983739837398376
+Number of selected features:1
+Selected features:[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.77      0.99      0.87       185
+           1       0.50      0.12      0.19        34
+           2       0.00      0.00      0.00        14
+           3       0.00      0.00      0.00         6
+           4       0.00      0.00      0.00         3
+           5       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         1
+           7       0.00      0.00      0.00         1
+           8       0.00      0.00      0.00         1
+          10       0.00      0.00      0.00         0
+
+    accuracy                           0.76       246
+   macro avg       0.13      0.11      0.11       246
+weighted avg       0.65      0.76      0.68       246
+
+subset performance = 0.7601626016260162

@@ -1,5 +1,4 @@
-parameters: {'c1': 0.6}
-parameters: {'c1': 0.6}
+
 parameters: {'c1': 0.6}
 number of particle 20:
 best pos cost= 1.3596138374899436
@@ -14,4 +13,4 @@ classification_report:              precision    recall  f1-score   support
    macro avg       0.62      0.52      0.45      1243
 weighted avg       0.63      0.64      0.53      1243
 
-subset performance = 0.6403861625100563parameters: {'c1': 0.6}
+subset performance = 0.6403861625100563

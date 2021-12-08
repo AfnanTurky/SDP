@@ -1,31 +1,30 @@
 parameters: {'c1': 0.6}
 number of particle 20:
-best pos cost= 0.34169278996865204
-Number of selected features:20
-Selected features:[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+best pos cost= 1.213166144200627
+Number of selected features:1
+Selected features:[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
 classification_report:              precision    recall  f1-score   support
 
-           0       0.84      0.83      0.83       251
-           1       0.10      0.03      0.05        34
+           0       0.79      1.00      0.88       251
+           1       0.00      0.00      0.00        34
            2       0.00      0.00      0.00        11
            3       0.00      0.00      0.00         7
-           4       0.06      0.20      0.10         5
+           4       0.00      0.00      0.00         5
            5       0.00      0.00      0.00         2
            6       0.00      0.00      0.00         2
            7       0.00      0.00      0.00         2
            8       0.00      0.00      0.00         2
           10       0.00      0.00      0.00         1
-          11       0.00      0.00      0.00         0
           13       0.00      0.00      0.00         1
           28       0.00      0.00      0.00         1
 
-    accuracy                           0.66       319
-   macro avg       0.08      0.08      0.07       319
-weighted avg       0.67      0.66      0.66       319
+    accuracy                           0.79       319
+   macro avg       0.07      0.08      0.07       319
+weighted avg       0.62      0.79      0.69       319
 
-subset performance = 0.658307210031348parameters: {'c1': 0.6}
+subset performance = 0.786833855799373parameters: {'c1': 0.6}
 number of particle 20:
-best pos cost= 1.213166144200627
+best pos cost= 0.26316614420062695
 Number of selected features:1
 Selected features:[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
 classification_report:              precision    recall  f1-score   support

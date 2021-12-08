@@ -1,0 +1,15 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 1.2608695652173914
+Number of selected features:1
+Selected features:[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.75      0.95      0.84       277
+           1       0.65      0.23      0.34       114
+
+    accuracy                           0.74       391
+   macro avg       0.70      0.59      0.59       391
+weighted avg       0.72      0.74      0.69       391
+
+subset performance = 0.7391304347826086
