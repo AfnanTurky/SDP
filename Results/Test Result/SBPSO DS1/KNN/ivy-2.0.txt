@@ -1,0 +1,76 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.15384615384615385
+Number of selected features:8
+Selected features:[1. 0. 1. 1. 0. 0. 1. 0. 1. 1. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92        98
+           1       0.00      0.00      0.00        17
+           2       1.00      0.50      0.67         2
+           3       0.00      0.00      0.00         0
+
+    accuracy                           0.85       117
+   macro avg       0.46      0.38      0.40       117
+weighted avg       0.73      0.85      0.78       117
+
+subset performance = 0.8461538461538461
+accuracy_score= 0.8461538461538461
+precision_score= 0.7308807134894091
+recall_score= 0.8461538461538461
+F_Score= 0.7843043426247159
+auc= 0.8974358974358975
+G_mean= 0.8959694979310845
+confusion_matrix=
+[[[  2  17]
+  [  0  98]]
+
+ [[100   0]
+  [ 17   0]]
+
+ [[115   0]
+  [  1   1]]
+
+ [[116   1]
+  [  0   0]]]
+labels {0, 1, 2, 3}
+True Negative= [  2 100 115 116]
+True Positive= [98  0  1  0]
+Flase Negative= [ 0 17  1  0]
+False Positive= [17  0  0  1]
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.1623931623931624
+Number of selected features:11
+Selected features:[1 1 0 0 1 1 1 1 1 0 0 1 0 1 0 0 1 0 0 1]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.91        98
+           1       0.00      0.00      0.00        17
+           2       0.00      0.00      0.00         2
+
+    accuracy                           0.84       117
+   macro avg       0.28      0.33      0.30       117
+weighted avg       0.70      0.84      0.76       117
+
+subset performance = 0.8376068376068376
+accuracy_score= 0.8376068376068376
+precision_score= 0.7015852144057273
+recall_score= 0.8376068376068376
+F_Score= 0.7635857682369311
+auc= 0.8917378917378919
+G_mean= 0.8772662229940706
+confusion_matrix=
+[[[  0  19]
+  [  0  98]]
+
+ [[100   0]
+  [ 17   0]]
+
+ [[115   0]
+  [  2   0]]]
+labels {0, 1, 2, 3}
+True Negative= [  0 100 115]
+True Positive= [98  0  0]
+Flase Negative= [ 0 17  2]
+False Positive= [19  0  0]

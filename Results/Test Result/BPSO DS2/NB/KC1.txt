@@ -1,0 +1,35 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-KC1 dataset:
+cost= 0.2557544757033248
+Number of selected features:9
+Selected features:[1 0 1 0 1 0 0 0 0 0 0 1 1 1 0 0 1 0 1 1]
+subset_performance:0.7442455242966752
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.78      0.89      0.83       277
+           1       0.59      0.39      0.47       114
+
+    accuracy                           0.74       391
+   macro avg       0.69      0.64      0.65       391
+weighted avg       0.73      0.74      0.73       391
+
+accuracy_score= 0.7442455242966752
+precision_score= 0.7258920959688223
+recall_score= 0.7442455242966752
+F_Score= 0.7349542465957226
+auc= 0.6414117423522706
+G_mean= 0.5920815119690062
+confusion_matrix=
+[[246  31]
+ [ 69  45]]
+labels {0, 1}
+True Negative= 246
+True Positive= 45
+Flase Negative= 69
+False Positive= 31
+number of particle 20:
+best pos cost= 0.2557544757033248
+Number of selected features:9
+Selected features:[1 0 1 0 1 0 0 0 0 0 0 1 1 1 0 0 1 0 1 1]
+FS, training, and testing time= 5.540295600891113 seconds

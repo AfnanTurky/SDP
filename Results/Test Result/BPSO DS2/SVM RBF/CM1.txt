@@ -1,0 +1,35 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-CM1 dataset:
+cost= 0.12962962962962962
+Number of selected features:15
+Selected features:[0 0 1 0 1 0 1 1 1 0 0 0 1 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 1 0 1 0 1 0 1 0]
+subset_performance:0.8703703703703703
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.87      1.00      0.93        94
+           1       0.00      0.00      0.00        14
+
+    accuracy                           0.87       108
+   macro avg       0.44      0.50      0.47       108
+weighted avg       0.76      0.87      0.81       108
+
+accuracy_score= 0.8703703703703703
+precision_score= 0.7575445816186557
+recall_score= 0.8703703703703703
+F_Score= 0.8100476714338102
+auc= 0.5
+G_mean= 0.0
+confusion_matrix=
+[[94  0]
+ [14  0]]
+labels {0, 1}
+True Negative= 94
+True Positive= 0
+Flase Negative= 14
+False Positive= 0
+number of particle 20:
+best pos cost= 0.12962962962962962
+Number of selected features:15
+Selected features:[0 0 1 0 1 0 1 1 1 0 0 0 1 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 1 0 1 0 1 0 1 0]
+FS, training, and testing time= 14.027666807174683 seconds

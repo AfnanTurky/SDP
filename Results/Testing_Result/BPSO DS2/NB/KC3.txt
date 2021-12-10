@@ -1,0 +1,23 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-KC3 dataset:
+cost= 8.276923076923078
+Number of selected features:8
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 1 0 0 0 1 0 1 0 0 0
+ 0]
+subset_performance:0.7230769230769231
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.77      0.92      0.84        51
+           1       0.00      0.00      0.00        14
+
+    accuracy                           0.72        65
+   macro avg       0.39      0.46      0.42        65
+weighted avg       0.60      0.72      0.66        65
+
+number of particle 20:
+best pos cost= 8.276923076923078
+Number of selected features:8
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 1 1 0 0 0 1 0 1 0 0 0
+ 0]
+FS, training, and testing time= 2.247058629989624 seconds

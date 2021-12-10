@@ -1,0 +1,69 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 1.1623931623931625
+Number of selected features:1
+Selected features:[0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.92        98
+           1       0.00      0.00      0.00        17
+           2       0.00      0.00      0.00         2
+
+    accuracy                           0.84       117
+   macro avg       0.28      0.33      0.31       117
+weighted avg       0.71      0.84      0.77       117
+
+subset performance = 0.8376068376068376parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.21239316239316242
+Number of selected features:1
+Selected features:[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.91        98
+           1       0.00      0.00      0.00        17
+           2       0.00      0.00      0.00         2
+
+    accuracy                           0.84       117
+   macro avg       0.28      0.33      0.30       117
+weighted avg       0.70      0.84      0.76       117
+
+subset performance = 0.8376068376068376parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.1452991452991453
+Number of selected features:7
+Selected features:[1. 0. 0. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.93        98
+           1       1.00      0.06      0.11        17
+           2       1.00      0.50      0.67         2
+           3       0.00      0.00      0.00         0
+
+    accuracy                           0.85       117
+   macro avg       0.72      0.39      0.43       117
+weighted avg       0.90      0.85      0.81       117
+
+subset performance = 0.8547008547008547accuracy_score= 0.8547008547008547
+precision_score= 0.8952991452991453
+recall_score= 0.8547008547008547
+F_Score= 0.8745290796572848
+auc= 0.9031339031339032
+G_mean= 0.9018342901050949
+confusion_matrix=
+[[[  5  14]
+  [  0  98]]
+
+ [[100   0]
+  [ 16   1]]
+
+ [[115   0]
+  [  1   1]]
+
+ [[114   3]
+  [  0   0]]]
+labels {0, 1, 2, 3}
+True Negative= [  5 100 115 114]
+True Positive= [98  1  1  0]
+Flase Negative= [ 0 16  1  0]
+False Positive= [14  0  0  3]

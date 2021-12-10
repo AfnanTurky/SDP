@@ -1,0 +1,35 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-CM1 dataset:
+cost= 0.12037037037037036
+Number of selected features:16
+Selected features:[0 1 1 0 1 0 1 1 0 0 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0]
+subset_performance:0.8796296296296297
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.91      0.96      0.93        94
+           1       0.56      0.36      0.43        14
+
+    accuracy                           0.88       108
+   macro avg       0.73      0.66      0.68       108
+weighted avg       0.86      0.88      0.87       108
+
+accuracy_score= 0.8796296296296297
+precision_score= 0.863262252151141
+recall_score= 0.8796296296296297
+F_Score= 0.8713690884337517
+auc= 0.6572948328267477
+G_mean= 0.5847608816890879
+confusion_matrix=
+[[90  4]
+ [ 9  5]]
+labels {0, 1}
+True Negative= 90
+True Positive= 5
+Flase Negative= 9
+False Positive= 4
+number of particle 20:
+best pos cost= 0.12037037037037036
+Number of selected features:16
+Selected features:[0 1 1 0 1 0 1 1 0 0 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0]
+FS, training, and testing time= 8.41534948348999 seconds

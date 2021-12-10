@@ -1,0 +1,58 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.07725321888412018
+Number of selected features:11
+Selected features:[0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 1. 0. 0. 1.
+ 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.95      0.97      0.96       217
+           1       0.40      0.25      0.31        16
+
+    accuracy                           0.92       233
+   macro avg       0.67      0.61      0.63       233
+weighted avg       0.91      0.92      0.91       233
+
+subset performance = 0.9227467811158798accuracy_score= 0.9227467811158798
+precision_score= 0.9086818453011027
+recall_score= 0.9227467811158798
+F_Score= 0.9156603055292893
+auc= 0.6111751152073733
+G_mean= 0.49303910352393615
+confusion_matrix=
+[[211   6]
+ [ 12   4]]
+labels {0, 1}
+True Negative= 211
+True Positive= 4
+Flase Negative= 12
+False Positive= 6
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.08583690987124463
+Number of selected features:17
+Selected features:[0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 1. 1. 0. 0. 1. 0. 0. 1. 1. 1. 1. 0.
+ 1. 0. 0. 0. 0. 1. 1. 1. 1. 0. 1. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.95      0.96      0.95       217
+           1       0.36      0.31      0.33        16
+
+    accuracy                           0.91       233
+   macro avg       0.65      0.64      0.64       233
+weighted avg       0.91      0.91      0.91       233
+
+subset performance = 0.9141630901287554accuracy_score= 0.9141630901287554
+precision_score= 0.9090761473617608
+recall_score= 0.9141630901287554
+F_Score= 0.9116125223132094
+auc= 0.6355126728110599
+G_mean= 0.5473017179827891
+confusion_matrix=
+[[208   9]
+ [ 11   5]]
+labels {0, 1}
+True Negative= 208
+True Positive= 5
+Flase Negative= 11
+False Positive= 9

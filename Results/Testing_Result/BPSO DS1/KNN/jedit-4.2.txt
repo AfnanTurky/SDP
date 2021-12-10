@@ -1,0 +1,23 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-jedit-4.2 dataset:
+cost= 4.10655737704918
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0]
+subset_performance:0.8934426229508197
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94       109
+           1       0.00      0.00      0.00        10
+           2       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00         1
+
+    accuracy                           0.89       122
+   macro avg       0.22      0.25      0.24       122
+weighted avg       0.80      0.89      0.84       122
+
+number of particle 20:
+best pos cost= 4.10655737704918
+Number of selected features:4
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0]
+FS, training, and testing time= 7.740496635437012 seconds

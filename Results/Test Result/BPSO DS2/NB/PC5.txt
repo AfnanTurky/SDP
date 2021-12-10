@@ -1,0 +1,35 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-PC5 dataset:
+cost= 0.26017699115044246
+Number of selected features:18
+Selected features:[1 0 0 1 1 0 0 1 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 1 1 1 0 1 0 1 1 0 1 0 1 1]
+subset_performance:0.7398230088495575
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.75      0.96      0.84       402
+           1       0.65      0.21      0.32       163
+
+    accuracy                           0.74       565
+   macro avg       0.70      0.58      0.58       565
+weighted avg       0.72      0.74      0.69       565
+
+accuracy_score= 0.7398230088495575
+precision_score= 0.7212198296967742
+recall_score= 0.7398230088495575
+F_Score= 0.7304029839112928
+auc= 0.5819064188261147
+G_mean= 0.44637333366585225
+confusion_matrix=
+[[384  18]
+ [129  34]]
+labels {0, 1}
+True Negative= 384
+True Positive= 34
+Flase Negative= 129
+False Positive= 18
+number of particle 20:
+best pos cost= 0.26017699115044246
+Number of selected features:18
+Selected features:[1 0 0 1 1 0 0 1 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 1 1 1 0 1 0 1 1 0 1 0 1 1]
+FS, training, and testing time= 11.786017417907715 seconds

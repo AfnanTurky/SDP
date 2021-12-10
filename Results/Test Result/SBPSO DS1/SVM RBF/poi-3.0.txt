@@ -1,0 +1,55 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.273972602739726
+Number of selected features:9
+Selected features:[0. 1. 0. 0. 0. 0. 1. 1. 1. 0. 0. 0. 1. 0. 1. 0. 1. 0. 1. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.72      0.94      0.82        50
+           1       0.73      0.82      0.77        72
+           2       0.00      0.00      0.00        13
+           3       0.00      0.00      0.00         5
+           4       0.00      0.00      0.00         2
+           5       0.00      0.00      0.00         2
+          13       0.00      0.00      0.00         1
+          16       0.00      0.00      0.00         1
+
+    accuracy                           0.73       146
+   macro avg       0.18      0.22      0.20       146
+weighted avg       0.61      0.73      0.66       146
+
+subset performance = 0.726027397260274accuracy_score= 0.726027397260274
+precision_score= 0.6068376068376068
+recall_score= 0.726027397260274
+F_Score= 0.6611033028812369
+auc= 0.8515981735159818
+G_mean= 0.8352313764233384
+confusion_matrix=
+[[[ 78  18]
+  [  3  47]]
+
+ [[ 52  22]
+  [ 13  59]]
+
+ [[133   0]
+  [ 13   0]]
+
+ [[141   0]
+  [  5   0]]
+
+ [[144   0]
+  [  2   0]]
+
+ [[144   0]
+  [  2   0]]
+
+ [[145   0]
+  [  1   0]]
+
+ [[145   0]
+  [  1   0]]]
+labels {0, 1, 2, 3, 4, 5, 6, 8, 9, 13, 14, 16, 19}
+True Negative= [ 78  52 133 141 144 144 145 145]
+True Positive= [47 59  0  0  0  0  0  0]
+Flase Negative= [ 3 13 13  5  2  2  1  1]
+False Positive= [18 22  0  0  0  0  0  0]

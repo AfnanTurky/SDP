@@ -1,0 +1,27 @@
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      0.83      0.83        64
+           1       0.23      0.45      0.30        11
+           2       0.00      0.00      0.00         8
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+
+    accuracy                           0.68        85
+   macro avg       0.21      0.26      0.23        85
+weighted avg       0.66      0.68      0.67        85
+
+subset performance = 0.6823529411764706
+classification_report:              precision    recall  f1-score   support
+
+           0       0.84      0.83      0.83        64
+           1       0.23      0.45      0.30        11
+           2       0.00      0.00      0.00         8
+           3       0.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+
+    accuracy                           0.68        85
+   macro avg       0.21      0.26      0.23        85
+weighted avg       0.66      0.68      0.67        85
+
+subset performance = 0.6823529411764706

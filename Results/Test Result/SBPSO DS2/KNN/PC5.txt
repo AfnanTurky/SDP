@@ -1,0 +1,87 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.2584070796460177
+Number of selected features:13
+Selected features:[1. 1. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0.
+ 0. 0. 1. 0. 0. 0. 1. 0. 1. 1. 0. 1. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.78      0.90      0.83       402
+           1       0.58      0.36      0.45       163
+
+    accuracy                           0.74       565
+   macro avg       0.68      0.63      0.64       565
+weighted avg       0.72      0.74      0.72       565
+
+subset performance = 0.7415929203539823accuracy_score= 0.7415929203539823
+precision_score= 0.7205564132855152
+recall_score= 0.7415929203539823
+F_Score= 0.7309233366445538
+auc= 0.6287427891218753
+G_mean= 0.5693383356698613
+confusion_matrix=
+[[360  42]
+ [104  59]]
+labels {0, 1}
+True Negative= 360
+True Positive= 59
+Flase Negative= 104
+False Positive= 42
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.2424778761061947
+Number of selected features:15
+Selected features:[1. 0. 0. 1. 1. 0. 1. 1. 0. 1. 1. 1. 1. 0. 0. 0. 1. 1. 1. 1. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.89      0.84       402
+           1       0.61      0.44      0.51       163
+
+    accuracy                           0.76       565
+   macro avg       0.70      0.66      0.68       565
+weighted avg       0.74      0.76      0.74       565
+
+subset performance = 0.7575221238938054accuracy_score= 0.7575221238938054
+precision_score= 0.7426879662728274
+recall_score= 0.7575221238938054
+F_Score= 0.750031704611283
+auc= 0.6636449653572628
+G_mean= 0.6254382219758293
+confusion_matrix=
+[[356  46]
+ [ 91  72]]
+labels {0, 1}
+True Negative= 356
+True Positive= 72
+Flase Negative= 91
+False Positive= 46
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.24955752212389382
+Number of selected features:18
+Selected features:[1. 1. 0. 1. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 1. 1. 1. 0. 0. 0. 0. 1. 0. 1.
+ 0. 0. 1. 1. 1. 0. 0. 1. 1. 0. 1. 1. 0.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.79      0.89      0.84       402
+           1       0.60      0.41      0.49       163
+
+    accuracy                           0.75       565
+   macro avg       0.69      0.65      0.66       565
+weighted avg       0.73      0.75      0.73       565
+
+subset performance = 0.7504424778761062accuracy_score= 0.7504424778761062
+precision_score= 0.7333042045863648
+recall_score= 0.7504424778761062
+F_Score= 0.7417743619328062
+auc= 0.6495513231389067
+G_mean= 0.604177684830072
+confusion_matrix=
+[[357  45]
+ [ 96  67]]
+labels {0, 1}
+True Negative= 357
+True Positive= 67
+Flase Negative= 96
+False Positive= 45

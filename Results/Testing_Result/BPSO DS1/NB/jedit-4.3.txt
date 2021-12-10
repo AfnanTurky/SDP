@@ -1,0 +1,21 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-jedit-4.3 dataset:
+cost= 3.01840490797546
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0]
+subset_performance:0.9815950920245399
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       160
+           1       0.50      0.33      0.40         3
+
+    accuracy                           0.98       163
+   macro avg       0.74      0.66      0.70       163
+weighted avg       0.98      0.98      0.98       163
+
+number of particle 20:
+best pos cost= 3.01840490797546
+Number of selected features:3
+Selected features:[0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0]
+FS, training, and testing time= 1.4451029300689697 seconds

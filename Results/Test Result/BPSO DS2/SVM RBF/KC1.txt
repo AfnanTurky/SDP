@@ -1,0 +1,35 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-KC1 dataset:
+cost= 0.27365728900255754
+Number of selected features:8
+Selected features:[1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1]
+subset_performance:0.7263427109974424
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.72      1.00      0.84       277
+           1       0.89      0.07      0.13       114
+
+    accuracy                           0.73       391
+   macro avg       0.81      0.53      0.48       391
+weighted avg       0.77      0.73      0.63       391
+
+accuracy_score= 0.7263427109974424
+precision_score= 0.7710216342398557
+recall_score= 0.7263427109974424
+F_Score= 0.7480155993198889
+auc= 0.533282665146621
+G_mean= 0.26442786854439126
+confusion_matrix=
+[[276   1]
+ [106   8]]
+labels {0, 1}
+True Negative= 276
+True Positive= 8
+Flase Negative= 106
+False Positive= 1
+number of particle 20:
+best pos cost= 0.27365728900255754
+Number of selected features:8
+Selected features:[1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1]
+FS, training, and testing time= 95.46349120140076 seconds

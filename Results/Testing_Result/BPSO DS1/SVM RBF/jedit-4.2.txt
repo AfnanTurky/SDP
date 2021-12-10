@@ -1,0 +1,24 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+SVM RBF-jedit-4.2 dataset:
+cost= 1.1147540983606556
+Number of selected features:1
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+subset_performance:0.8852459016393442
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94       109
+           1       0.00      0.00      0.00        10
+           2       0.00      0.00      0.00         2
+           4       0.00      0.00      0.00         1
+           6       0.00      0.00      0.00         0
+
+    accuracy                           0.89       122
+   macro avg       0.18      0.20      0.19       122
+weighted avg       0.80      0.89      0.84       122
+
+number of particle 20:
+best pos cost= 1.1147540983606556
+Number of selected features:1
+Selected features:[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 6.831721782684326 seconds

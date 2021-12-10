@@ -1,0 +1,35 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+NB-JM1 dataset:
+cost= 0.20319190346438304
+Number of selected features:5
+Selected features:[0 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+subset_performance:0.796808096535617
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.80      0.99      0.89      2040
+           1       0.59      0.04      0.08       529
+
+    accuracy                           0.80      2569
+   macro avg       0.69      0.52      0.48      2569
+weighted avg       0.76      0.80      0.72      2569
+
+accuracy_score= 0.796808096535617
+precision_score= 0.7567046940343942
+recall_score= 0.796808096535617
+F_Score= 0.7762387674605237
+auc= 0.5178175618073316
+G_mean= 0.20769510081357428
+confusion_matrix=
+[[2024   16]
+ [ 506   23]]
+labels {0, 1}
+True Negative= 2024
+True Positive= 23
+Flase Negative= 506
+False Positive= 16
+number of particle 20:
+best pos cost= 0.20319190346438304
+Number of selected features:5
+Selected features:[0 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0]
+FS, training, and testing time= 27.758014678955078 seconds

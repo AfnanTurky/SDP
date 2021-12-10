@@ -1,0 +1,26 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-camel-1.4 dataset:
+cost= 4.170138888888889
+Number of selected features:4
+Selected features:[0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0]
+subset_performance:0.8298611111111112
+
+classification_report:              precision    recall  f1-score   support
+
+           0       0.85      0.98      0.91       243
+           1       0.22      0.11      0.14        19
+           2       0.00      0.00      0.00        11
+           3       0.00      0.00      0.00         8
+           5       0.00      0.00      0.00         3
+           7       0.00      0.00      0.00         3
+          10       0.00      0.00      0.00         1
+
+    accuracy                           0.83       288
+   macro avg       0.15      0.15      0.15       288
+weighted avg       0.73      0.83      0.78       288
+
+number of particle 20:
+best pos cost= 4.170138888888889
+Number of selected features:4
+Selected features:[0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0]
+FS, training, and testing time= 16.468746423721313 seconds

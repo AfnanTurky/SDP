@@ -1,8 +1,0 @@
-NB
-parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 40, 'p': 2}
-NB-ant dataset:
-cost= 1.2228187919463087
-Number of selected features:1
-Selected features:[0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
-subset_performance:0.7771812080536913
-FS, training, and testing time= 31.612229585647583 seconds

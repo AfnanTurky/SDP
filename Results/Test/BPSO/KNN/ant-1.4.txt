@@ -1,0 +1,5 @@
+parameters: {'c1': 0.6, 'c2': 0.3, 'w': 0.4, 'k': 20, 'p': 2}
+KNN-ant-1.4 dataset:
+cost= 0.23728813559322035
+Number of selected features:11
+Selected features:[1 1 1 0 0 0 0 0 0 1 1 1 1 1 0 1 0 0 1 1]

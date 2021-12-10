@@ -1,0 +1,86 @@
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.13095238095238096
+Number of selected features:14
+Selected features:[0. 1. 0. 0. 1. 0. 0. 1. 1. 0. 0. 0. 0. 1. 1. 0. 0. 1. 1. 0. 0. 1. 0. 0.
+ 0. 0. 0. 1. 1. 1. 0. 1. 0. 0. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.93        70
+           1       1.00      0.21      0.35        14
+
+    accuracy                           0.87        84
+   macro avg       0.93      0.61      0.64        84
+weighted avg       0.89      0.87      0.83        84
+
+subset performance = 0.8690476190476191accuracy_score= 0.8690476190476191
+precision_score= 0.8868312757201645
+recall_score= 0.8690476190476191
+F_Score= 0.8778493903629921
+auc= 0.6071428571428571
+G_mean= 0.4629100498862757
+confusion_matrix=
+[[70  0]
+ [11  3]]
+labels {0, 1}
+True Negative= 70
+True Positive= 3
+Flase Negative= 11
+False Positive= 0
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.13095238095238096
+Number of selected features:15
+Selected features:[1. 1. 0. 0. 0. 0. 1. 0. 0. 1. 1. 0. 0. 0. 0. 1. 1. 1. 0. 0. 1. 1. 0. 0.
+ 0. 1. 0. 0. 1. 1. 0. 0. 0. 1. 0. 1.]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.93        70
+           1       1.00      0.21      0.35        14
+
+    accuracy                           0.87        84
+   macro avg       0.93      0.61      0.64        84
+weighted avg       0.89      0.87      0.83        84
+
+subset performance = 0.8690476190476191accuracy_score= 0.8690476190476191
+precision_score= 0.8868312757201645
+recall_score= 0.8690476190476191
+F_Score= 0.8778493903629921
+auc= 0.6071428571428571
+G_mean= 0.4629100498862757
+confusion_matrix=
+[[70  0]
+ [11  3]]
+labels {0, 1}
+True Negative= 70
+True Positive= 3
+Flase Negative= 11
+False Positive= 0
+parameters: {'c1': 0.6}
+number of particle 20:
+best pos cost= 0.14285714285714285
+Number of selected features:17
+Selected features:[1 0 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 0 1 0 0 0 1 1 0 0 1 0 1 1 0 0 1 0]
+classification_report:              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92        70
+           1       1.00      0.14      0.25        14
+
+    accuracy                           0.86        84
+   macro avg       0.93      0.57      0.59        84
+weighted avg       0.88      0.86      0.81        84
+
+subset performance = 0.8571428571428571accuracy_score= 0.8571428571428571
+precision_score= 0.8780487804878048
+recall_score= 0.8571428571428571
+F_Score= 0.8674698795180721
+auc= 0.5714285714285714
+G_mean= 0.3779644730092272
+confusion_matrix=
+[[70  0]
+ [12  2]]
+labels {0, 1}
+True Negative= 70
+True Positive= 2
+Flase Negative= 12
+False Positive= 0
