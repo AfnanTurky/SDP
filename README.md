@@ -2,9 +2,12 @@
 
 Team members: Afnan Alotaibi - Nada Alsulaiman - Nojoud Albadrani
 
-Project Paper: Feature selection using firefly algorithm in software defect prediction 
-
+selected Paper: Feature selection using firefly algorithm in software defect prediction
 Paper Link: https://link.springer.com/article/10.1007/s10586-017-1235-3
+
+Final topic of the paper: 
+'Feature Selection Based on Improved Particle Swarm Optimization in Software Defect Prediction'
+
 
 [21 Sep 2021]
 A meeting with Dr.Wojdan to discus some of the selected papers.
@@ -39,4 +42,25 @@ Reading the paper and some related work to understand the problem.
 [11 Nov 2021]
 - Writing  the Introduction, Methodology, and related work section. 
 - A meeting to discuss the possible improvements before the testing phase with Dr.Wojdan. 
+
+[25 Nov 2021]
+- implement the improvement of the algorithm. 
+
+
+[27 Nov 2021]
+- start the testing of the system.
+- complete the remaning sections of the paper.
+
+
+[ 8 Dec 2021]
+- Analyse the result.
+- complete the discussion section.
+
+
+[9 Dec 2021] 
+- review the paper. 
+- organize the deliverables.
+
+[10 Dec 2021]
+- submit the project.
 
